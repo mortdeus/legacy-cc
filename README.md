@@ -7,9 +7,7 @@ These are not capable of being compiled today with modern c compilers like gcc. 
 
 You guys might be able to play around building this compilier with Aiju's pdp-11/unix emulator. I havent tried building this myself so I cant confirm it works, but I posted the link to his emulator for anybody wanting to hack around with it.
 
-Source: [https://www.bell-labs.com/usr/dmr/www/primevalC.html] 
-
-[alt-link http://cm.bell-labs.co/who/dmr/primevalC.html]
+Source: [https://www.bell-labs.com/usr/dmr/www/primevalC.html] alt-link [http://cm.bell-labs.co/who/dmr/primevalC.html]
 
 **Useful Links
 
