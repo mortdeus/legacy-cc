@@ -9,7 +9,8 @@ You guys might be able to play around building this compilier with Aiju's pdp-11
 
 Source: [https://www.bell-labs.com/usr/dmr/www/primevalC.html] alt-link [http://cm.bell-labs.co/who/dmr/primevalC.html]
 
-**Useful Links
+*Useful Links*
 
 PDP-11 Emulator: [http://pdp11.aiju.de/]
+
 Research Unix Repository: [https://www.tuhs.org/Archive/Distributions/Research/]
