@@ -11,6 +11,6 @@ Source: [https://www.bell-labs.com/usr/dmr/www/primevalC.html] alt-link [http://
 
 *Useful Links*
 
-PDP-11 Emulator: [http://pdp11.aiju.de/]
+PDP-11 Emulator: [http://pdp11.aiju.de/] (so i've been playing around with this to see if it still works, and it clearly has problems right now. if somebody wants to try and create like a VM image of unix running on PDP-7 hardware, id happily link to it here.)
 
 Research Unix Repository: [https://www.tuhs.org/Archive/Distributions/Research/]
